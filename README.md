@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Scientist from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomspur" alt="tomspur" /> </p>
 
