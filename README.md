@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/ThomasSpura">
+  <img align="left" alt="Thomas Spura | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tomspur/">
+  <img align="left" alt="Thomas's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 **tomspur/tomspur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
